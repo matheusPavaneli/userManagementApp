@@ -170,7 +170,7 @@ function Register() {
                       <RiCheckboxBlankCircleLine className="w-8 h-8 text-black" />
                     )}
                   </div>
-                  <span className="text-gray-500 text-sm text-nowrap">
+                  <span className="text-gray-500 text-xs sm:text-sm break-words px-2">
                     I have read and accept all user terms.
                   </span>
                 </label>
